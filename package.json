@@ -1,0 +1,11 @@
+{
+  "name": "01-prof-website",
+  "module": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "bun --watch index.js"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
